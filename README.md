@@ -18,6 +18,8 @@ Here's a walkthrough of implemented user stories:
 
 ![](https://i.imgur.com/Eo3tgFM.gif)
 
+https://imgur.com/a/fWLkEhd
+
 # Twitter - Part I
 
 This is a basic twitter app to read your tweets.
